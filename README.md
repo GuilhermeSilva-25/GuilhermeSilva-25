@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Guilherme Silva 👋</h1>
-<p align="center">Desenvolvedor Back-end Java em formação | Aluno Oracle Next Education (ONE)</p>
+<p align="center">Desenvolvedor Back-end Java</p>
 
 ---
 
